@@ -22,7 +22,7 @@
     ·
     <a href="https://github.com/s1ralt/Nitro-Generator-Checker/issues">Request Feature</a>
       ·
-    <a href="https://www.anonix.xyz/discord">Join the discord</a>
+    <a href="https://discord.gg/qN2fkNJr5g">Join the discord</a>
   </p>
 </p>
   
