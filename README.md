@@ -72,7 +72,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker.git
+   git clone https://github.com/s1ralt/Nitro-Generator-Checker.git
    ```
 2. Install Python packages
    ```sh
@@ -86,7 +86,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 #### Or this can be done using android with unrooted Termux
 ```
 pkg install git
-git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker
+git clone https://github.com/s1ralt/Nitro-Generator-Checker.git
 pkg install python
 cd Discord-Nitro-Generator-and-Checker
 pip install -r requirements.txt
@@ -108,7 +108,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/s1ralt/Nitro-Generator-Checker/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -121,7 +121,7 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 ## Licence
 
-Copyright © 2021 Drillenissen#4268
+Copyright © 2022 ⋆ D#0552
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -131,9 +131,9 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Contact
 
-Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
+D - [@⋆ D#0552](https://www.discordapp.com) - dylan.mail.business@gmail.com
 
-Project Link: [https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
+Project Link: [https://github.com/s1ralt/Nitro-Generator-Checker](https://github.com/s1ralt/Nitro-Generator-Checker)
 
 <!-- Statistics -->  
 
