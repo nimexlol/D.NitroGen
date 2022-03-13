@@ -68,23 +68,24 @@ class NitroGen:  # Initialise the class
             print(f'\33]0;Nitro Generator and Checker - Made by ⋆ D#0552\a',
                   end='', flush=True)  # Update title of command prompt
 
-        print(""" DDDDDDDDDDDDD        
-D::::::::::::DDD     
-D:::::::::::::::DD   
-DDD:::::DDDDD:::::D  
-  D:::::D    D:::::D 
-  D:::::D     D:::::D
-  D:::::D     D:::::D
-  D:::::D     D:::::D
-  D:::::D     D:::::D
-  D:::::D     D:::::D
-  D:::::D     D:::::D
-  D:::::D    D:::::D 
-DDD:::::DDDDD:::::D  
-D:::::::::::::::DD   
-D::::::::::::DDD     
-DDDDDDDDDDDDD    
-                                                        """)  # Print the title card
+        print("""                                                                                                                     
+DDDDDDDDDDDDD        YYYYYYY       YYYYYYYLLLLLLLLLLL                    444444444  NNNNNNNN        NNNNNNNN
+D::::::::::::DDD     Y:::::Y       Y:::::YL:::::::::L                   4::::::::4  N:::::::N       N::::::N
+D:::::::::::::::DD   Y:::::Y       Y:::::YL:::::::::L                  4:::::::::4  N::::::::N      N::::::N
+DDD:::::DDDDD:::::D  Y::::::Y     Y::::::YLL:::::::LL                 4::::44::::4  N:::::::::N     N::::::N
+  D:::::D    D:::::D YYY:::::Y   Y:::::YYY  L:::::L                  4::::4 4::::4  N::::::::::N    N::::::N
+  D:::::D     D:::::D   Y:::::Y Y:::::Y     L:::::L                 4::::4  4::::4  N:::::::::::N   N::::::N
+  D:::::D     D:::::D    Y:::::Y:::::Y      L:::::L                4::::4   4::::4  N:::::::N::::N  N::::::N
+  D:::::D     D:::::D     Y:::::::::Y       L:::::L               4::::444444::::444N::::::N N::::N N::::::N
+  D:::::D     D:::::D      Y:::::::Y        L:::::L               4::::::::::::::::4N::::::N  N::::N:::::::N
+  D:::::D     D:::::D       Y:::::Y         L:::::L               4444444444:::::444N::::::N   N:::::::::::N
+  D:::::D     D:::::D       Y:::::Y         L:::::L                         4::::4  N::::::N    N::::::::::N
+  D:::::D    D:::::D        Y:::::Y         L:::::L         LLLLLL          4::::4  N::::::N     N:::::::::N
+DDD:::::DDDDD:::::D         Y:::::Y       LL:::::::LLLLLLLLL:::::L          4::::4  N::::::N      N::::::::N
+D:::::::::::::::DD       YYYY:::::YYYY    L::::::::::::::::::::::L        44::::::44N::::::N       N:::::::N
+D::::::::::::DDD         Y:::::::::::Y    L::::::::::::::::::::::L        4::::::::4N::::::N        N::::::N
+DDDDDDDDDDDDD            YYYYYYYYYYYYY    LLLLLLLLLLLLLLLLLLLLLLLL        4444444444NNNNNNNN         NNNNNNN                                                                                                                                                                                                                     
+                                                """)  # Print the title card
         time.sleep(2)  # Wait a few seconds
         # Print who developed the code
         self.slowType("Made by:DYL4N#0552 ", .02)
