@@ -85,7 +85,7 @@ DDD:::::DDDDD:::::D         Y:::::Y       LL:::::::LLLLLLLLL:::::L          4:::
 D:::::::::::::::DD       YYYY:::::YYYY    L::::::::::::::::::::::L        44::::::44N::::::N       N:::::::N
 D::::::::::::DDD         Y:::::::::::Y    L::::::::::::::::::::::L        4::::::::4N::::::N        N::::::N
 DDDDDDDDDDDDD            YYYYYYYYYYYYY    LLLLLLLLLLLLLLLLLLLLLLLL        4444444444NNNNNNNN         NNNNNNN                                                                                                                                                                                                                     
-                                                """)  # Print the title card
+                                                """)  print(Fore.RED+banner)
         time.sleep(2)  # Wait a few seconds
         # Print who developed the code
         self.slowType("Made by:DYL4N#0552 ", .02)
